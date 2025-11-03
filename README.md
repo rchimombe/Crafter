@@ -33,6 +33,14 @@ Reinforcement-Learning-Project-2026-Crafter/
 │
 ├── report.pdf                 # Final written report for the assignment
 └── README.md                  # Project guide (this file)
+
+
+
+
+
+
+
+
 # Crafter RL Project – PPO & A2C Training
 
 This project demonstrates **training and evaluating two reinforcement learning algorithms** on the [Crafter](https://github.com/danijar/crafter) environment using [Stable-Baselines3](https://stable-baselines3.readthedocs.io/).
