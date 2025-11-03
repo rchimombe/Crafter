@@ -1,14 +1,42 @@
-# Python environment
+# Python + RL + PyTorch + VS Code
+
+# Virtual environments
 .venv/
+env/
+venv/
+
+# Bytecode / cache
 __pycache__/
-*.pyc
+*.py[cod]
 *.pyo
 *.pyd
 
-# IDE and cache
+# Torch, RL, model outputs
+checkpoints/
+runs/
+models/
+outputs/
+logs/
+*.pt
+*.pth
+*.h5
+*.onnx
+*.ckpt
+*.zip
+*.tar
+*.gz
+
+# Datasets
+data/
+datasets/
+*.npy
+*.npz
+
+# Notebooks auto-checkpoints
+.ipynb_checkpoints/
+
+# System/IDE files
 .vscode/
 .idea/
 .DS_Store
-
-# OS files
 Thumbs.db
